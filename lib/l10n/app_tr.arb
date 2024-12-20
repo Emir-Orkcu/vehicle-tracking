@@ -1,0 +1,58 @@
+{
+    "name": "Vehicle TR",
+    "language_tr":"Türkçe",
+    "language_en":"İngilizce",
+    "language_fr":"Fransızca",
+
+    "main_sign_languge_options":"Dil Seçenekleri",
+
+    "main_sign_title":"Araç Takip Sistemi",
+    "main_sign_subtitle":"Önemli Bilgiler",
+    "main_sign_animated_text":"Aracınızın bakımlarını düzenli halde takip ediniz.",
+    "main_sign_button_text":"Giriş İçin Tıklayınız",
+
+    "modal_sheet_activation_validation_text":"Aktivasyon kodunu giriniz.",
+    "modal_sheet_mail_text":"E-Posta",
+    "modal_sheet_activate_text":"Doğrula",
+    "modal_sheet_Qr_text":"QR Menü",
+    "modal_sheet_mail_organisation_text":"Kurum Kodu",
+    "modal_sheet_mail_organisation_hint_text":"Kurum kodu yazınız...",
+    "modal_sheet_mail_hint_text":"Mail adresinizi yazınız...",
+    "modal_sheet_password_text":"Parola",
+    "modal_sheet_password_hint_text":"Parolanızı giriniz...",
+    "modal_sheet_button_text":"Devam Et",
+    "modal_sheet_activation_resend_text":"Tekrar Kod Gönder",
+    "modal_sheet_qr_button_text":"QR Okut",
+    "modal_sheet_qr_title_text":"QR Menü",
+    "modal_sheet_qr_subtitle_text":"Aracı teslim almak için QR kodu\n telefonunuza okutun",
+
+    "car_informations_title_text":"Araç Bilgileri",
+    "car_informations_car_plates":"Aracın Plakası",
+    "car_informations_car_km":"Aracın Kmsi",
+    "car_informations_car_model":"Modeli",
+    "car_informations_car_year":"Yılı",
+    "car_informations_car_color":"Rengi",
+    "car_informations_peak_date":"Muayene Tarihi",
+    "car_informations_button_text":"Bir Sonraki Aşama",
+    "car_informations_bottom_text":"Aracınızı aktif etmek için bir sonraki aşamaya geçiniz.",
+
+    "car_photo_text":"Aracın Km Fotoğrafını Çekiniz",
+    "car_photo_field_text":"Araç Km'si",
+    "car_photo_field_hint_text":"Aracın Km'sini Yazınız...",
+    "car_photo_button_text":"Aracın Aktif Et",
+    "car_photo_bottom_text":"Aktif et tuşuna basarak aracınızı aktif edebilirsiniz.",
+
+    "car_activate_text":"Aracınız Aktif Olmuştur",
+    "car_passivate_text":"Aracınız Pasif Olmuştur",
+    "car_photo_bottom_passive_text":"Pasif et tuşuna basarak aracınızı pasif edebilirsiniz.",
+
+
+    "car_main_counter_text":"Araç Kullanım Süresi",
+    "car_main_start_km":"Km\nBaşlangıcı",
+    "car_main_end_km":"Yapılan\nKm",
+    "car_main_passive_button":"Aracı Pasif Et",
+
+    "crash_photo_text":"Kaza Fotoğrafını Çekin",
+    "crash_button_text":"Kaza Bildir",
+    "crash_bottom_text":"Kaza durumunun fotoğraflarını gönderin"
+}

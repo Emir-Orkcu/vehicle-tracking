@@ -1,0 +1,57 @@
+{
+    "name": "Vehicle TR",
+    "language_tr": "Turc",
+    "language_en": "Anglais",
+    "language_fr": "Français",
+
+    "main_sign_languge_options": "Options de langue",
+
+    "main_sign_title": "Système de Suivi des Véhicules",
+    "main_sign_subtitle": "Informations Importantes",
+    "main_sign_animated_text": "Suivez régulièrement l'entretien de votre véhicule.",
+    "main_sign_button_text": "Cliquez pour vous connecter",
+
+    "modal_sheet_activation_validation_text": "Veuillez entrer le code d'activation.",
+    "modal_sheet_mail_text": "E-mail",
+    "modal_sheet_activate_text": "Activer",
+    "modal_sheet_Qr_text": "Menu QR",
+    "modal_sheet_mail_organisation_text": "Code de l'organisation",
+    "modal_sheet_mail_organisation_hint_text": "Veuillez entrer le code de l'organisation...",
+    "modal_sheet_mail_hint_text": "Veuillez entrer votre adresse e-mail...",
+    "modal_sheet_password_text": "Mot de passe",
+    "modal_sheet_password_hint_text": "Veuillez entrer votre mot de passe...",
+    "modal_sheet_button_text": "Continuer",
+    "modal_sheet_activation_resend_text": "Renvoyer le code",
+    "modal_sheet_qr_button_text": "Scanner le QR",
+    "modal_sheet_qr_title_text": "Menu QR",
+    "modal_sheet_qr_subtitle_text": "Scannez le code QR avec votre téléphone pour récupérer le véhicule",
+
+    "car_informations_title_text": "Informations sur le Véhicule",
+    "car_informations_car_plates": "Plaque d'immatriculation du véhicule",
+    "car_informations_car_km": "Kilométrage du véhicule",
+    "car_informations_car_model": "Modèle",
+    "car_informations_car_year": "Année",
+    "car_informations_car_color": "Couleur",
+    "car_informations_peak_date": "Date du contrôle technique",
+    "car_informations_button_text": "Étape Suivante",
+    "car_informations_bottom_text": "Passez à l'étape suivante pour activer votre véhicule.",
+
+    "car_photo_text": "Prenez une photo du kilométrage du véhicule",
+    "car_photo_field_text": "Kilométrage du véhicule",
+    "car_photo_field_hint_text": "Veuillez entrer le kilométrage du véhicule...",
+    "car_photo_button_text": "Activer le véhicule",
+    "car_photo_bottom_text": "Vous pouvez activer votre véhicule en appuyant sur le bouton Activer.",
+
+    "car_activate_text": "Votre véhicule a été activé",
+    "car_passivate_text": "Votre véhicule a été désactivé",
+    "car_photo_bottom_passive_text": "Vous pouvez désactiver votre véhicule en appuyant sur le bouton Désactiver.",
+
+    "car_main_counter_text": "Durée d'utilisation du véhicule",
+    "car_main_start_km": "Km\nDébut",
+    "car_main_end_km": "Km\nParcourus",
+    "car_main_passive_button": "Désactiver le véhicule",
+
+    "crash_photo_text": "Prenez une photo de l'accident",
+    "crash_button_text": "Signaler l'accident",
+    "crash_bottom_text": "Envoyez des photos de la situation de l'accident"
+}

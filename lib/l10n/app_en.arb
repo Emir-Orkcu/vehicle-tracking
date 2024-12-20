@@ -1,0 +1,58 @@
+{
+    "name": "Vehicle EN",
+
+    "language_tr":"Turkish",
+    "language_en":"English",
+    "language_fr":"French",
+
+    "main_sign_languge_options":"Language Options",
+
+    "main_sign_title": "Vehicle Tracking System",
+    "main_sign_subtitle": "Important Information",
+    "main_sign_animated_text": "Regularly track the maintenance of your vehicle.",
+    "main_sign_button_text": "Click Here to Enter",
+
+    "modal_sheet_activation_validation_text":"Enter the activation code.",
+    "modal_sheet_mail_text": "Email",
+    "modal_sheet_activate_text": "Verify",
+    "modal_sheet_Qr_text": "QR Menu",
+    "modal_sheet_mail_organisation_text": "Organisation Code",
+    "modal_sheet_mail_organisation_hint_text": "Enter organisation code...",
+    "modal_sheet_mail_hint_text": "Enter your email address...",
+    "modal_sheet_password_text": "Password",
+    "modal_sheet_password_hint_text": "Enter your password",
+    "modal_sheet_button_text": "Continue",
+    "modal_sheet_activation_resend_text": "Resend Code",
+    "modal_sheet_qr_button_text": "Scan QR",
+    "modal_sheet_qr_title_text": "QR Menu",
+    "modal_sheet_qr_subtitle_text": "Scan the QR code with your phone\n to receive the vehicle",
+
+    "car_informations_title_text": "Car Information",
+    "car_informations_car_plates": "Car Plate",
+    "car_informations_car_km": "Car Mileage",
+    "car_informations_car_model": "Model",
+    "car_informations_car_year": "Year",
+    "car_informations_car_color": "Color",
+    "car_informations_peak_date": "Inspection Date",
+    "car_informations_button_text": "Next Step",
+    "car_informations_bottom_text": "Proceed to the next step to activate your vehicle.",
+
+    "car_photo_text": "Take a Photo of the Car's Mileage",
+    "car_photo_field_text": "Car's Mileage",
+    "car_photo_field_hint_text": "Enter the Car's Mileage...",
+    "car_photo_button_text": "Activate the Car",
+    "car_photo_bottom_text": "You can activate your car by pressing the activate button.",
+
+    "car_activate_text":"Your Vehicle Has Been Activated",
+    "car_passivate_text":"Your Vehicle Has Been Passivated",
+    "car_photo_bottom_passive_text":"You can deactivate your vehicle by pressing the deactivate button.",
+
+    "car_main_counter_text": "Car Usage Time",
+    "car_main_start_km": "Starting\nKm",
+    "car_main_end_km": "Distance\nCovered",
+    "car_main_passive_button": "Deactivate the Car",
+
+    "crash_photo_text": "Take a Photo of the Accident",
+    "crash_button_text": "Report Accident",
+    "crash_bottom_text": "Send photos of the accident situation"
+}
